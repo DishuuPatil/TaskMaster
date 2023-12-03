@@ -113,3 +113,26 @@ ul li span:hover{
     background: #edeef0;
 
 }
+
+@media screen and (max-width: 400px) {
+
+    .row{
+        padding-left: 10px;
+    
+    }
+    
+    input{
+        padding: 5px;
+    }
+    
+    button{
+        
+        padding: 16px 40px;
+        
+        font-size: 1rem;
+        border-radius: 30px;
+        
+    }
+    
+
+}
